@@ -32,7 +32,8 @@
             }
           ],
         //   "no-console": "off",
-          "class-methods-use-this": "off"
+        "camelcase": "off",
+        "class-methods-use-this": "off"
     },
     "settings": {
         "import/resolver": {
